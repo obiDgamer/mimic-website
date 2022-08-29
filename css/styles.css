@@ -1,0 +1,127 @@
+html, body{
+    margin: 0;
+}
+
+.big{
+    background-color: red;
+    margin: auto;
+    text-align: end;
+   color: white;
+   height: 40px;
+   font-size: 30px;
+}
+
+.set{
+    color: white;
+    background-color: black;
+    margin: auto;
+    height: 500px;
+    text-align: center;
+    font-size: 70px;
+}
+
+p{
+    margin: auto;
+    text-align: center;
+    color: brown;
+    font-size: 40px;
+}
+
+h4{
+    text-align: center;
+    background-color: navy;
+    color: white;
+    margin: auto;
+    height: 600px;
+    text-decoration: none;
+    font-size: 40px;
+
+}
+
+img{
+    height: 200px;
+    width: 400px;
+    text-align: center;
+    text-decoration: none;
+}
+
+body{
+    text-align: center;  
+}
+
+h2{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin: auto;
+    height: 200px;
+    padding-top: 30px;
+    font-size: 50px;
+}
+
+span{
+    margin: auto;
+    font-size: 15px;
+}
+
+.dev{
+    margin: auto;
+    font-size: 15px;
+}
+
+hr{
+    color: red;
+}
+
+.lake{
+   font-size: 10px;
+    background-color: black;
+}
+
+.l{
+   font-size: 10px;
+}
+
+.seek{
+    margin: 90px;
+    color: white;
+    background-color: black;
+    border-style: none;
+    border-width: 50px;
+    font-size: 20px;
+}
+
+.axe{
+    font-size: 10px;
+    background-color: black;
+}
+
+.gir{
+    color: white;
+}
+
+.dl{
+    color: white;
+}
+
+.de{
+  color: white;
+}
+
+a{
+    text-decoration: none;
+}
+
+.dl:hover{
+    background-color: navy;
+    padding-top:5px;
+}
+
+
+.gir:hover{
+    background-color: navy;
+}
+
+.de:hover{
+    background-color: navy;
+}
